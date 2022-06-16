@@ -1,6 +1,10 @@
 # machinelearning-roadmap
 A roadmap to learn Machine-Learning and ML-Ops
 
+## Table of Contents
+- [Push-ups with Python]
+- [Version Control with Git]
+
 ## Push-ups with Python
 You can use any programming language you'd like, but _Python_ is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master!
 
@@ -29,15 +33,21 @@ Mini-Project: Solve as many problems as you can in [Hackerrank](https://www.hack
 - [Unit-Testing](https://realpython.com/python-testing/)
 
 ### Advanced
-- [Keep calm and write logs](https://realpython.com/python-logging/) and even more [logs](https://machinelearningmastery.com/logging-in-python/)
-- [Write docs properly (Google style)](https://google.github.io/styleguide/pyguide.html)
-- [PIP Packaging](https://www.w3schools.com/python/python_pip.asp)
-- [Setting up Virtual Environment](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
+- [Keep calm and write logs](https://realpython.com/python-logging/) and even more [logs](https://machinelearningmastery.com/logging-in-python/)!
+- [Write docs the proper way (Google style)](https://google.github.io/styleguide/pyguide.html)
+- [Manage your packages with PIP](https://www.w3schools.com/python/python_pip.asp)
+- [Set up Virtual Environment to isolate your project](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 - [Use Environmental Varaibles with _python-dotenv_](https://pypi.org/project/python-dotenv/)
 - [Structuring your application](https://realpython.com/python-application-layouts/)
 - Interactive notebooks:
-  - [Jupyter Notebook](https://jupyter.org/install)
+  - Run your code locally: [Jupyter Notebook](https://jupyter.org/install)
   - Run your code online: [Google Colaboratory](https://research.google.com/colaboratory/)
 
 
 I suggest going through a few whole tutorials to build up a solid background on Python, like with [w3Schools](https://www.w3schools.com/python/default.asp), [programiz](https://www.programiz.com/python-programming) or [pythontutorial](https://www.pythontutorial.net/).
+
+## Version Control with Git
+> "The problem with git jokes is that everyone has their own version."
+- Got with courses out there, like [codecademy](https://www.codecademy.com/learn/learn-git), [tutorialspoint](https://www.tutorialspoint.com/git/index.htm) or [w3schools](https://www.w3schools.com/git)
+- [Branching strategy](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
+- [More secure with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
