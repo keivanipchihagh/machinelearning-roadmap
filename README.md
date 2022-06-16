@@ -4,7 +4,7 @@ A roadmap to learn Machine-Learning and ML-Ops
 ## Table of Contents
 - [Push-ups with Python]()
 - [Version Control with Git]()
-- [Docker In Action]()
+- [Docker in Action]()
 
 ## Push-ups with Python
 You can use any programming language you'd like, but _Python_ is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master!
@@ -19,7 +19,7 @@ You can use any programming language you'd like, but _Python_ is the widest used
 - Flow Control:
   - [If-elif-else](https://www.programiz.com/python-programming/if-elif-else)
   - Loops: [while](https://www.w3schools.com/python/python_while_loops.asp) and [for](https://www.w3schools.com/python/python_for_loops.asp)
-  - [Pass, Break or Continue?](https://betterprogramming.pub/how-to-use-pass-break-and-continue-in-python-6e0201fc032a)
+  - [Pass, Break or Continue](https://betterprogramming.pub/how-to-use-pass-break-and-continue-in-python-6e0201fc032a)?
 - Working with files:
   - [Basic file-operations](https://www.programiz.com/python-programming/file-operation)
   - [Working with JSON Data](https://realpython.com/python-json/)
@@ -66,12 +66,25 @@ _Final Notes: I suggest going through a few whole tutorials to build up a solid 
 
 ## Version Control with Git
 > "The problem with git jokes is that everyone has their own version."
-- Got with courses out there, like [codecademy](https://www.codecademy.com/learn/learn-git), [tutorialspoint](https://www.tutorialspoint.com/git/index.htm) or [w3schools](https://www.w3schools.com/git)
-- [Branching strategy](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
-- [Secure your account with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+- Creating a repository using Git
+- Cloning a Git repository:
+  - [Secure your account with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+- Add, Commit and Push
+- Pull, Fetch, Stash
+- Fork, Pull Requests, Merges
+- Reverts, Resets, Branches:
+  - [Branching strategy](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
+
+There are also many courses out there, like [codecademy](https://www.codecademy.com/learn/learn-git), [tutorialspoint](https://www.tutorialspoint.com/git/index.htm) or [w3schools](https://www.w3schools.com/git)
+
+**Checkpoint #6**: Add your Reddit scraper codes in a GitHub repository and link it to Heroku. Now you can change your code and see the effects in realtime!
 
 ## Docker in Action
-- [Docker get-started](https://docs.docker.com/get-started/)
-- [More on docker](https://realpython.com/docker-in-action-fitter-happier-more-productive/)
-- [docker-compose in details](https://docs.docker.com/compose/)
-- [Dockerfile in details](https://docs.docker.com/engine/reference/builder/)
+- [Why even bother with Docker?](https://medium.com/@kmdkhadeer/docker-get-started-9aa7ee662cea)
+- [get-started](https://docs.docker.com/get-started/)
+- Components in detail:
+  - [docker-compose](https://docs.docker.com/compose/)
+  - [Dockerfile](https://docs.docker.com/engine/reference/builder/)
+  - [Manage sensitive data with Docker secrets](https://docs.docker.com/engine/swarm/secrets/)
+
+**Checkpoint #7**: Dockerize your Reddit scraper bot and deploy it on Heroku (run it locally first, remember baby steps!).
