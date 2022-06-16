@@ -62,7 +62,7 @@ You can use any programming language you'd like, but _Python_ is the widest used
 
 **Checkpoint #5**: Your Bot should run at all times (since it's a service!), so deploy it on [Heroku](https://www.heroku.com/). (See Heroku:[getting-started-with-python](https://devcenter.heroku.com/articles/getting-started-with-python))
 
-_Final Notes: I suggest going through a few whole tutorials to build up a solid background on Python, like with [w3Schools](https://www.w3schools.com/python/default.asp), [programiz](https://www.programiz.com/python-programming) or [pythontutorial](https://www.pythontutorial.net/)._
+_Final Note: I suggest going through a few whole tutorials to build up a solid background on Python, like with [w3Schools](https://www.w3schools.com/python/default.asp), [programiz](https://www.programiz.com/python-programming) or [pythontutorial](https://www.pythontutorial.net/)._
 
 ## Version Control with Git
 > "The problem with git jokes is that everyone has their own version."
@@ -80,6 +80,7 @@ There are also many courses out there, like [codecademy](https://www.codecademy.
 **Checkpoint #6**: Add your Reddit scraper codes in a GitHub repository and link it to Heroku. Now you can change your code and see the effects in realtime!
 
 ## Docker in Action
+> What if we put Docker inside of Docker?
 - [Why even bother with Docker?](https://medium.com/@kmdkhadeer/docker-get-started-9aa7ee662cea)
 - [get-started](https://docs.docker.com/get-started/)
 - Components in detail:
@@ -88,3 +89,5 @@ There are also many courses out there, like [codecademy](https://www.codecademy.
   - [Manage sensitive data with Docker secrets](https://docs.docker.com/engine/swarm/secrets/)
 
 **Checkpoint #7**: Dockerize your Reddit scraper bot and deploy it on Heroku (run it locally first, remember baby steps!).
+
+_Final Note: Getting comfortable with Docker can take some time and practice. However, Docker is the gateway to MLOps which plays an important role in deploying Machine-Learning models!_
