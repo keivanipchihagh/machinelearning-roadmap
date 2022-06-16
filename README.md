@@ -1,10 +1,11 @@
 # machinelearning-roadmap
-A roadmap to learn Machine-Learning and ML-Ops
+A hands-on roadmap to learn Data-Science, Machine-Learning and MLOps. This roadmap is more practical than theoratical (great news!); So it's best to do more research as you reach sections of this roadmap.
 
 ## Table of Contents
 - [Push-ups with Python]()
 - [Version Control with Git]()
 - [Docker in Action]()
+- [The Era of Data Science]()
 
 ## Push-ups with Python
 You can use any programming language you'd like, but _Python_ is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master!
@@ -54,9 +55,6 @@ You can use any programming language you'd like, but _Python_ is the widest used
   - [Isolate your project with Virtual Environment](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
   - [Store your Environmental Variables](https://pypi.org/project/python-dotenv/)
 - [Structuring your application](https://realpython.com/python-application-layouts/)
-- Interactive notebooks:
-  - Run your code locally: [Jupyter Notebook](https://jupyter.org/install)
-  - Run your code online: [Google Colaboratory](https://research.google.com/colaboratory/)
 
 **Checkpoint #4**: Learn to use [Telegram Bot](https://github.com/python-telegram-bot/python-telegram-bot) and move your Reddit scraper to the Bot. ([Example bots](https://docs.python-telegram-bot.org/en/v20.0a1/examples.html))
 
@@ -74,6 +72,8 @@ _Final Note: I suggest going through a few whole tutorials to build up a solid b
 - Fork, Pull Requests, Merges
 - Reverts, Resets, Branches:
   - [Branching strategy](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
+- [Choosing the right License](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+- Code scheduling: [Cron-Job](https://phoenixnap.com/kb/set-up-cron-job-linux) or [schedule](https://pypi.org/project/schedule/) librry
 
 There are also many courses out there, like [codecademy](https://www.codecademy.com/learn/learn-git), [tutorialspoint](https://www.tutorialspoint.com/git/index.htm) or [w3schools](https://www.w3schools.com/git)
 
@@ -91,3 +91,12 @@ There are also many courses out there, like [codecademy](https://www.codecademy.
 **Checkpoint #7**: Dockerize your Reddit scraper bot and deploy it on Heroku (run it locally first, remember baby steps!).
 
 _Final Note: Getting comfortable with Docker can take some time and practice. However, Docker is the gateway to MLOps which plays an important role in deploying Machine-Learning models!_
+
+## The Era of Data Science
+> "The first rule of data science is: _don’t ask how to define data science!_"
+- Interactive notebooks:
+  - Locally: [Jupyter Notebook](https://jupyter.org/install)
+  - On the cloud: [Google Colaboratory](https://research.google.com/colaboratory/)
+- Learn [Numpy](https://numpy.org/):
+  - Arrays: Indexing, Slicing, Types, Shape and Reshape, Iterating, Join and Split, Sort and Filter
+  - Distributions: Normal, Binomial, Seaborn, Normal, Poisson, Uniform, Exponential, Chi-Square, ...
