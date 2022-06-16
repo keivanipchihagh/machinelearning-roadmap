@@ -2,8 +2,9 @@
 A roadmap to learn Machine-Learning and ML-Ops
 
 ## Table of Contents
-- [Push-ups with Python]
-- [Version Control with Git]
+- [Push-ups with Python]()
+- [Version Control with Git]()
+- [Docker In Action]()
 
 ## Push-ups with Python
 You can use any programming language you'd like, but _Python_ is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master!
