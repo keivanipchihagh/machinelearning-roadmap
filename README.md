@@ -8,7 +8,7 @@ A hands-on roadmap to learn Data-Science, Machine-Learning and MLOps. This roadm
 - [Docker in Action]()
 - [The Era of Data Science]()
   - [Building Blocks]()
-  - [Gentle Approach to Machine-Learning]()
+  - [A Gentle Approach to Machine-Learning]()
 
 ## Push-ups with Python
 > How do functions break-up? Well, they stop calling each other.
@@ -78,6 +78,7 @@ _Final Note: I suggest going through a few whole tutorials to build up a solid b
 - [Intermediate](https://www.sqlcourse.com/advanced-course/): Aggregate, Group By, Having, Order By and Joins
   - Aggregations: Count, Sum, Avg
   - [Joins](https://www.freecodecamp.org/news/sql-joins-tutorial/): Inner Join, Outer Join, Left Join, Right Join, Full Join, Self Join, Union (Read more [here](https://www.dataquest.io/blog/sql-joins-tutorial/))
+  - Kaggle: [More on SQL](https://www.kaggle.com/learn/advanced-sql)
 - Advanced:
   - [Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp) and [Like](https://www.w3schools.com/sql/sql_like.asp)
   - [SQL Injection](https://portswigger.net/web-security/sql-injection) in [Action](https://www.hacksplaining.com/exercises/sql-injection#/start)
@@ -147,7 +148,7 @@ _Final Note: Getting comfortable with Docker can take some time and practice. Ho
 
 **Checkpoint #11**: You could alter your Reddit scraper bot to give your some numbers (likes, number of comments, votes, awards, etc.) and save them along side memes in Pandas. You can then do some analysis and visualization work!
 
-### Gentle Approach to Machine-Learning
+### A Gentle Approach to Machine-Learning
 > If you torture the data long enough, it will finally confess.
 
 It's perfectly **okay** if what you are about to read sounds crazy and that you have no idea how some things work (and why they work!), but they will start to make sence after some time, hang tight!
@@ -175,7 +176,17 @@ It's perfectly **okay** if what you are about to read sounds crazy and that you 
 
 By now, you probably have tons of questions and are panicing! Good, let's get into action and see how it's really done.
 
-**Checkpoint #12**: _Compeition time with [Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)_! Explore the competition page, read other's [notebooks](https://www.kaggle.com/competitions/titanic/code?competitionId=3136&sortBy=voteCount) (it's not cheating), create a notebook and start coding (lacking ideas? get help from other notebooks!). Submit your results (might have to try a few times to get it right). **Take your time and start improving your code**!!!
-#### 
+**Checkpoint #12**: _Compeition time with [Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)_! Explore the competition page, read [other's notebooks](https://www.kaggle.com/competitions/titanic/code?competitionId=3136&sortBy=voteCount) (it's not cheating), create a notebook and start coding (lacking ideas? get help from other notebooks!). Submit your results (might have to try a few times to get it right). **Take your days and improve your code**!!!
+
+#### Diving even Deeper
   - Pipeline:
-    - Scikit-Learn [Pipeline Module](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) documentations
+    - Official [Pipeline Module](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) documentations
+    - [Add custom transformers to your Pipeline](https://towardsdatascience.com/pipelines-custom-transformers-in-scikit-learn-the-step-by-step-guide-with-python-code-4a7d9b068156)
+  - Hyperparameter Tuning:
+    - Official [modules](https://scikit-learn.org/stable/modules/grid_search.html)
+    - [Hyperparameter Optimization with RandomSearch and GridSearch](https://machinelearningmastery.com/hyperparameter-optimization-with-random-search-and-grid-search/)
+  - Ensembling:
+    - [Basics and Introduction](https://builtin.com/machine-learning/ensemble-model)
+    - [Further reading](https://machinelearningmastery.com/tour-of-ensemble-learning-algorithms/)
+    - Official [methods](https://scikit-learn.org/stable/modules/ensemble.html)
+    - [Ensemble Models](https://towardsdatascience.com/ensemble-models-5a62d4f4cb0c): RandomForst, AdaBoost, XGBoost, etc.
