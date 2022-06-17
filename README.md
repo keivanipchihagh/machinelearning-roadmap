@@ -6,6 +6,8 @@ A hands-on roadmap to learn Data-Science, Machine-Learning and MLOps. This roadm
 - [Version Control with Git]()
 - [Docker in Action]()
 - [The Era of Data Science]()
+  - BUilding Blocks
+  - Gentle Approach to Machine-Learning
 
 ## Push-ups with Python
 You can use any programming language you'd like, but _Python_ is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master!
@@ -55,6 +57,7 @@ You can use any programming language you'd like, but _Python_ is the widest used
   - [Isolate your project with Virtual Environment](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
   - [Store your Environmental Variables](https://pypi.org/project/python-dotenv/)
 - [Structuring your application](https://realpython.com/python-application-layouts/)
+- [Schedule your code (video)](https://www.youtube.com/watch?v=aqnJvXOIr6g&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=17&t=464s)
 
 **Checkpoint #4**: Learn to use [Telegram Bot](https://github.com/python-telegram-bot/python-telegram-bot) and move your Reddit scraper to the Bot. ([Example bots](https://docs.python-telegram-bot.org/en/v20.0a1/examples.html))
 
@@ -94,9 +97,26 @@ _Final Note: Getting comfortable with Docker can take some time and practice. Ho
 
 ## The Era of Data Science
 > "The first rule of data science is: _don’t ask how to define data science!_"
+
+### Building Blocks
 - Interactive notebooks:
-  - Locally: [Jupyter Notebook](https://jupyter.org/install)
-  - On the cloud: [Google Colaboratory](https://research.google.com/colaboratory/)
+  - Run locally with [Jupyter Notebook](https://jupyter.org/install), or move to the cloud with [Google Colaboratory](https://research.google.com/colaboratory/)
+  - [Tips and tricks (video)](https://www.youtube.com/watch?v=YuWZNV4BkkY&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=3)
 - Learn [Numpy](https://numpy.org/):
-  - Arrays: Indexing, Slicing, Types, Shape and Reshape, Iterating, Join and Split, Sort and Filter
-  - Distributions: Normal, Binomial, Seaborn, Normal, Poisson, Uniform, Exponential, Chi-Square, ...
+  - Official [quick-start](https://numpy.org/devdocs/user/quickstart.html)
+  - [Numpy Essentials](https://towardsdatascience.com/numpy-essentials-for-data-science-25dc39fae39)
+  - See in Action (video): [Numpy tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=8)    
+  - [cheatsheet](https://assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+- Learn [Pandas](https://pandas.pydata.org/):
+  - [Kaggle hands-on course](https://www.kaggle.com/learn/pandas)
+  - See in Action (video): [Pandas tutorial](https://www.youtube.com/watch?v=vmEHCJofslg&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=2) and [Data Analysis with Pandas on Lego-Dataset](https://www.youtube.com/watch?v=BzQDi4D0B_M&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=18)
+  - [cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+  - See in Action: [Generating mock data with Pandas and Numpy](https://www.youtube.com/watch?v=VJBY2eVtf7o&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=10)
+- Data Visualization with [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/):
+  - Kaggle [hands-on course](https://www.kaggle.com/learn/data-visualization)
+  - See in Action (video): [Intro to data visualization with matplotlib](https://www.youtube.com/watch?v=DAQNHzOcO5A&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=4) and [Plotting with Pandas and matplotlib](https://www.youtube.com/watch?v=0P7QnIQDBJY)
+  - [cheatsheet](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
+
+**Checkpoint #8**: At this point, you have followed the _See in Action_ parts of each library and you are good to go! I strongly recommand not to stop here and make yourself comfortable with these libraries, because they are the bulding blocks of everything from now on.
+
+### Gentle Approach to Machine-Learning
