@@ -71,8 +71,6 @@ _Final Note: I suggest going through a few whole tutorials to build up a solid b
 ## SQL is your friend
 > A SQL query goes into a bar, walks up to two tables and asks: "Mind if I join you?"
 
-The choice of SQL engine you'd like to use doesn't really matter (since they all use SQL). You can use [postgresql](https://www.postgresql.org/), [mysql](https://www.mysql.com/), [SQL-Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), [SQLite](https://www.sqlite.org/index.html) and many more. However, there are some minor differences between them -especially when you move to the advanced topics-, but it's nothing serious to worry about.
-
 - [Basics](https://www.sqlcourse.com/beginner-course/): Select, Create, Insert, Update, Delete or Drop
   - [Aliases](https://www.w3schools.com/sql/sql_alias.asp)
   - [Where](https://www.w3schools.com/sql/sql_where.asp) - Conditions
@@ -85,6 +83,7 @@ The choice of SQL engine you'd like to use doesn't really matter (since they all
   - [SQL Injection](https://portswigger.net/web-security/sql-injection) in [Action](https://www.hacksplaining.com/exercises/sql-injection#/start)
   - [Auto Increment](https://www.w3schools.com/sql/sql_autoincrement.asp)
   - [Index](https://www.sqlservertutorial.net/sql-server-indexes/) - To speed up your query!
+  - Choose an engine: [postgresql](https://www.postgresql.org/), [mysql](https://www.mysql.com/), [SQL-Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads), [SQLite](https://www.sqlite.org/index.html), etc.
 - Off Topic: SQL doesn't end anywhere near here! There are many more advanced topics like [Views](https://www.sqlservertutorial.net/sql-server-views/), [Procedures](https://www.sqlservertutorial.net/sql-server-stored-procedures/), [Functions](https://www.sqlservertutorial.net/sql-server-user-defined-functions/), [Triggers](https://www.sqlservertutorial.net/sql-server-triggers/) and a lot more. You can learn them if you want, but they are not something a _Data Scientiest_ should worry about (hopefully!).
 
 Preferably, go through courses like [w3schools](https://www.w3schools.com/sql) and [sqlservertutorial](https://www.sqlservertutorial.net). 
@@ -151,8 +150,32 @@ _Final Note: Getting comfortable with Docker can take some time and practice. Ho
 ### Gentle Approach to Machine-Learning
 > If you torture the data long enough, it will finally confess.
 
-It might sound crazy and you might have no idea how some things work (and why they work!), but that's totally OKAY!
+It's perfectly **okay** if what you are about to read sounds crazy and that you have no idea how some things work (and why they work!), but they will start to make sence after some time, hang tight!
+
+#### Starting Off: 
 - Official [scikit-learn tutorial](https://scikit-learn.org/stable/tutorial/index.html)
 - Kaggle: [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+  - Splitting your data:
+    - official [_train_test_split_](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) documentations
+    - [Understanding train test split](https://towardsdatascience.com/understanding-train-test-split-scikit-learn-python-ea676d5e3d1)
+    - [Follow-up](https://realpython.com/train-test-split-python-data/)
+  - Underfitting vs Overfitting:
+    - [A complete example](https://towardsdatascience.com/overfitting-vs-underfitting-a-complete-example-d05dd7e19765)
+    - [More on what it is and how to prevent it](https://elitedatascience.com/overfitting-in-machine-learning#how-to-detect)
+  - [How Random Forest actually works?](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 - Kaggle: [Intemediate Machine Learnng](https://www.kaggle.com/learn/intermediate-machine-learning)
-- 
+  - Missing Values:
+    - [How to deal with Missing Values](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779)
+    - [Imputing Missing Data](https://www.theanalysisfactor.com/seven-ways-to-make-up-data-common-methods-to-imputing-missing-data)
+    - Scikit-Learn [Imputer Library](https://scikit-learn.org/stable/modules/impute.html)
+  - Categorical Encoding:
+    - [4 Categorical Encoding concepts](https://towardsdatascience.com/4-categorical-encoding-concepts-to-know-for-data-scientists-e144851c6383)
+    - Clearing the confusion: [LabelEncode vs OneHotEncode](https://datascience.stackexchange.com/questions/9443/when-to-use-one-hot-encoding-vs-labelencoder-vs-dictvectorizor)
+  - Scikit-Learn: [Cross-validate function](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html)
+
+By now, you probably have tons of questions and are panicing! Good, let's get into action and see how it's really done.
+
+**Checkpoint #12**: _Compeition time with [Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)_! Explore the competition page, read other's [notebooks](https://www.kaggle.com/competitions/titanic/code?competitionId=3136&sortBy=voteCount) (it's not cheating), create a notebook and start coding (lacking ideas? get help from other notebooks!). Submit your results (might have to try a few times to get it right). **Take your time and start improving your code**!!!
+#### 
+  - Pipeline:
+    - Scikit-Learn [Pipeline Module](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) documentations
