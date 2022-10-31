@@ -8,11 +8,11 @@ SQL is the backbone of databases and as a Data Scientist, you get to work with a
 - [Basics](https://www.sqlcourse.com/beginner-course/): Select, Create, Insert, Update, Delete or Drop
   - [Aliases](https://www.w3schools.com/sql/sql_alias.asp)
   - [Where](https://www.w3schools.com/sql/sql_where.asp) - Conditions
-  - Kaggle: [hands-on course](https://www.kaggle.com/learn/intro-to-sql)
+  - Kaggle: [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 - [Intermediate](https://www.sqlcourse.com/advanced-course/): Aggregate, Group By, Having, Order By and Joins
   - Aggregations: Count, Sum, Avg
   - [Joins](https://www.freecodecamp.org/news/sql-joins-tutorial/): Inner Join, Outer Join, Left Join, Right Join, Full Join, Self Join, Union (Read more [here](https://www.dataquest.io/blog/sql-joins-tutorial/))
-  - Kaggle: [More on SQL](https://www.kaggle.com/learn/advanced-sql)
+  - Kaggle: [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 - Advanced:
   - [Wildcards](https://www.w3schools.com/sql/sql_wildcards.asp) and [Like](https://www.w3schools.com/sql/sql_like.asp)
   - [SQL Injection](https://portswigger.net/web-security/sql-injection) in [Action](https://www.hacksplaining.com/exercises/sql-injection#/start)

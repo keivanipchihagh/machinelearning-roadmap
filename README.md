@@ -13,7 +13,7 @@ A hands-on roadmap to learn Data-Science, Machine-Learning and MLOps. This roadm
 ## 1. Push-ups with Python
 > How do functions break-up? Well, they stop calling each other.
 
-You can use any programming language you'd like, but _Python_ is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master and has thousands of libraries!
+You can use almost any programming language you'd like, but [Python](https://www.python.org/) is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master, has thousands of libraries and one og the biggest communities!
 
 Read the complete roadmap [here](https://github.com/keivanipchihagh/machinelearning-roadmap/tree/master/1.python/README.md)!
 
@@ -50,3 +50,10 @@ Read the complete roadmap [here](https://github.com/keivanipchihagh/machinelearn
 **Checkpoint #9**: Dockerize your Reddit scraper bot and deploy it on Heroku (run it locally first, remember baby steps!).
 
 _Final Note: Getting comfortable with Docker can take some time and practice. However, Docker is the gateway to MLOps which plays an important role in deploying Machine-Learning models!_
+
+
+
+<br />
+
+## 🤝 Contributions
+We are here to share knowledge, don't by shy (:

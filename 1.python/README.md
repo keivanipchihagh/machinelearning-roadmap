@@ -3,7 +3,7 @@
 
 You can use almost any programming language you'd like, but [Python](https://www.python.org/) is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master, has thousands of libraries and one og the biggest communities!
 
-### Basics
+## Basics
 - [Syntax](https://www.w3schools.com/python/python_syntax.asp) and [Comments](https://www.w3schools.com/python/python_comments.asp)
 - [Variables](https://realpython.com/python-variables/) and Data Types:
   - [Strings](https://www.w3schools.com/python/python_strings.asp) and [formatting them with f-string](https://towardsdatascience.com/a-simple-guide-to-string-formatting-in-python-using-f-strings-39e5c39589c3)
@@ -18,10 +18,11 @@ You can use almost any programming language you'd like, but [Python](https://www
   - [Basic file-operations](https://www.programiz.com/python-programming/file-operation)
   - [Working with JSON Data](https://realpython.com/python-json/)
   - [YAML: The Missing Battery in Python](https://realpython.com/python-yaml/)
+- Review with Kaggle: [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
 
 **Checkpoint #1**: Solve as many problems as you can in [Hackerrank](https://www.hackerrank.com/domains/python) to enforce your knowledge! Need more practice? Try [pynative](https://pynative.com/python-exercises-with-solutions/) and [practicepython](https://www.practicepython.org/).
 
-### Intermediate
+## Intermediate
 - Working with Web: [requests](https://realpython.com/python-requests/) and [Beautiful Soup](https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/) libraries
 - [Multithreading and Multiprocessing](https://towardsdatascience.com/multithreading-multiprocessing-python-180d0975ab29)
 - [Object Oriented Programming](https://www.pythontutorial.net/python-oop/)
@@ -39,7 +40,7 @@ You can use almost any programming language you'd like, but [Python](https://www
 
 **Checkpoint #3**: Upgrade the Reddit scraper to get memes from multiple sub-reddits at the same time (_multithreading_) with enhanced exception handling. Also, save your API configurations into a file.
 
-### Advanced
+## Advanced
 - [Keep calm and write logs](https://realpython.com/python-logging/) and even more [logs](https://machinelearningmastery.com/logging-in-python/)!
 - Write docs the proper way:
   - [Google style](https://google.github.io/styleguide/pyguide.html)
