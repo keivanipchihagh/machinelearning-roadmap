@@ -1,6 +1,8 @@
 ## The Era of Data Science
 > "The first rule of data science is: _don’t ask how to define data science!_"
 
+![sql meme](https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/images/data-science.jpg?raw=true)
+
 ### Building Blocks
 - Interactive notebooks:
   - Run locally with [Jupyter Notebook](https://jupyter.org/install), or move to the cloud with [Google Colaboratory](https://research.google.com/colaboratory/)

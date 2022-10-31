@@ -1,7 +1,7 @@
 # Push-ups with Python
 > How do functions break-up? Well, they stop calling each other.
 
-You can use any programming language you'd like, but _Python_ is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master and has thousands of libraries!
+You can use almost any programming language you'd like, but [Python](https://www.python.org/) is the widest used language among Data Scientists and Machine Learning Engineers. It's also super easy to master, has thousands of libraries and one og the biggest communities!
 
 ### Basics
 - [Syntax](https://www.w3schools.com/python/python_syntax.asp) and [Comments](https://www.w3schools.com/python/python_comments.asp)
@@ -19,7 +19,7 @@ You can use any programming language you'd like, but _Python_ is the widest used
   - [Working with JSON Data](https://realpython.com/python-json/)
   - [YAML: The Missing Battery in Python](https://realpython.com/python-yaml/)
 
-**Checkpoint #1**: Solve as many problems as you can in [Hackerrank](https://www.hackerrank.com/domains/python) and put your skills at use! Need more practice? Try [pynative](https://pynative.com/python-exercises-with-solutions/) and [practicepython](https://www.practicepython.org/).
+**Checkpoint #1**: Solve as many problems as you can in [Hackerrank](https://www.hackerrank.com/domains/python) to enforce your knowledge! Need more practice? Try [pynative](https://pynative.com/python-exercises-with-solutions/) and [practicepython](https://www.practicepython.org/).
 
 ### Intermediate
 - Working with Web: [requests](https://realpython.com/python-requests/) and [Beautiful Soup](https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/) libraries
@@ -54,7 +54,7 @@ You can use any programming language you'd like, but _Python_ is the widest used
 
 **Checkpoint #5**: Your Bot should run at all times (since it's a service!), so deploy it on [Heroku](https://www.heroku.com/). (See Heroku:[getting-started-with-python](https://devcenter.heroku.com/articles/getting-started-with-python))
 
-_Final Note: I suggest going through a few whole tutorials to build up a solid background on Python, like with [w3Schools](https://www.w3schools.com/python/default.asp), [programiz](https://www.programiz.com/python-programming) or [pythontutorial](https://www.pythontutorial.net/)._
+_Final Note: I suggest going through a few whole tutorials to build up a solid background on Python, like with [w3Schools](https://www.w3schools.com/python/default.asp), [programiz](https://www.programiz.com/python-programming) or [pythontutorial](https://www.pythontutorial.net/)._ I highly recommend you do a few more projects as well, because you are going to need it!
 
 
-> Had enough of Python? Don't stop here! go to the next step..
+> Had enough of Python? What are you waiting for? go to the [next step](https://github.com/keivanipchihagh/machinelearning-roadmap/tree/master/1.sql/README.md)..
