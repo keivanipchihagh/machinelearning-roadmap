@@ -34,7 +34,7 @@ Read the complete roadmap [here](https://github.com/keivanipchihagh/machinelearn
 ## 4. The Era of Data Science
 > "The first rule of data science is: _don’t ask how to define data science!_"
 
-Here comes the good stuff. Get your hands dirty Deep Learning Models!
+Here comes the good stuff. Time to get your hands dirty Deep Learning Models!
 
 Read the complete roadmap [here](https://github.com/keivanipchihagh/machinelearning-roadmap/tree/master/4.data-science/README.md)!
 

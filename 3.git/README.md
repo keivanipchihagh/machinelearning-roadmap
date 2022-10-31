@@ -1,7 +1,9 @@
 # Version Control with Git
 > The problem with git jokes is that everyone has their own version.
 
-![sql meme](https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/images/git.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/images/git.jpg?raw=true" />
+</p>
 
 You may not need to work with Git on your first day, but as your models get more and more complex, you'll see the old convention of storing models start to struggle, well **Git** is your guardian angle!
 

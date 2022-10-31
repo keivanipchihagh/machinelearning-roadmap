@@ -1,7 +1,11 @@
 ## The Era of Data Science
 > "The first rule of data science is: _don’t ask how to define data science!_"
 
-![sql meme](https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/images/data-science.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/images/data-science.jpg?raw=true" width="600" />
+</p>
+
+Here comes the good stuff. Time to get your hands dirty Deep Learning Models!
 
 ### Building Blocks
 - Interactive notebooks:
@@ -22,14 +26,16 @@
   - See in Action (video): [Intro to data visualization with matplotlib](https://www.youtube.com/watch?v=DAQNHzOcO5A&list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp&index=4) and [Plotting with Pandas and matplotlib](https://www.youtube.com/watch?v=0P7QnIQDBJY)
   - [cheatsheet](https://matplotlib.org/cheatsheets/cheatsheets.pdf)
 
-**Checkpoint #10**: At this point, you have followed the _See in Action_ parts of each library and you are good to go! I strongly recommand not to stop here and make yourself comfortable with these libraries, because they are the bulding blocks of everything from now on.
+**Checkpoint #10**: I strongly encourage to pause here and make yourself comfortable with these libraries, because they are the bulding blocks of everything from now on. There are many courses and videos out there.
 
-**Checkpoint #11**: You could alter your Reddit scraper bot to give your some numbers (likes, number of comments, votes, awards, etc.) and save them along side memes in Pandas. You can then do some analysis and visualization work!
+**Checkpoint #11**: You could alter your Reddit scraper bot to give your some numbers (likes, number of comments, votes, awards, etc.) and save them along side memes in Pandas. You can then do some analysis and visualization work using the data!
+
+<br />
 
 ### A Gentle Approach to Machine-Learning
 > If you torture the data long enough, it will finally confess.
 
-It's perfectly **okay** if what you are about to read sounds crazy and that you have no idea how some things work (and why they work!), but they will start to make sence after some time, hang tight!
+It's perfectly **okay** if some of the contents you are about to read don't make much sense, or you wonder how they work. We've all been there at all you got to do is to hang on tight!
 
 #### Starting Off: 
 - Official [scikit-learn tutorial](https://scikit-learn.org/stable/tutorial/index.html)
@@ -52,9 +58,9 @@ It's perfectly **okay** if what you are about to read sounds crazy and that you 
     - Clearing the confusion: [LabelEncode vs OneHotEncode](https://datascience.stackexchange.com/questions/9443/when-to-use-one-hot-encoding-vs-labelencoder-vs-dictvectorizor)
   - Scikit-Learn: [Cross-validate function](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html)
 
-By now, you probably have tons of questions and are panicing! Good, let's get into action and see how it's really done.
+By now, you probably have tons of questions and are panicing! That's good news, let's get into action and see how it's really done..
 
-**Checkpoint #12**: _Compeition time with [Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)_! Explore the competition page, read [other's notebooks](https://www.kaggle.com/competitions/titanic/code?competitionId=3136&sortBy=voteCount) (it's not cheating), create a notebook and start coding (lacking ideas? get help from other notebooks!). Submit your results (might have to try a few times to get it right). **Take your days and improve your code**!!!
+**Checkpoint #12**: _Compeition time with [Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)_! Explore the competition page, read [other's notebooks](https://www.kaggle.com/competitions/titanic/code?competitionId=3136&sortBy=voteCount) (it's not cheating ^_^), create a notebook and start coding (lacking ideas? get help from other notebooks!). Submit your results (might have to try a few times to get it right). **Take your days and improve your code**!!!
 
 #### Diving even Deeper
   - Pipeline:
