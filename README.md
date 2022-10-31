@@ -4,11 +4,11 @@ A hands-on roadmap to learn Data-Science, Machine-Learning and MLOps. This roadm
 ## Table of Contents
 1. [Push-ups with Python](https://github.com/keivanipchihagh/machinelearning-roadmap/1.python/README.md)
 2. [SQL is your friend](https://github.com/keivanipchihagh/machinelearning-roadmap/1.sql/README.md)
-3. [Version Control with Git]()
-4. [Docker in Action]()
-5. [The Era of Data Science]()
-  6. [Building Blocks]()
-  7. [A Gentle Approach to Machine-Learning]()
+3. [Version Control with Git](https://github.com/keivanipchihagh/machinelearning-roadmap/3.git/README.md)
+4. [The Era of Data Science](https://github.com/keivanipchihagh/machinelearning-roadmap/4.data-science/README.md)
+    - [Building Blocks]()
+    - [A Gentle Approach to Machine-Learning]()
+7. [Docker in Action]()
 
 ## 1. Push-ups with Python
 > How do functions break-up? Well, they stop calling each other.
