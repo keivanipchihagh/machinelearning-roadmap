@@ -56,11 +56,19 @@ It's perfectly **okay** if some of the contents you are about to read don't make
 - Kaggle: [Intro to DeepLearning](https://www.kaggle.com/learn/intro-to-deep-learning)
 - scikit-learn: [tutorial](https://scikit-learn.org/stable/tutorial/index.html)
 
-By now, you probably have tons of questions! That's good news, let's get into action and see how it's really done..
-
 **Checkpoint #12**: _Compeition time with [Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)_! Explore the competition page, read [other's notebooks](https://www.kaggle.com/competitions/titanic/code?competitionId=3136&sortBy=voteCount) (it's not cheating ^_^), create a notebook and start coding (lacking ideas? get help from other notebooks!). Submit your results (might have to try a few times to get it right). **Take your days and improve your code as much as you can**!!!
 
-### Dive Deeper
+### Q&A Session
+Answers to your questions:
+- Overfitting vs underfitting
+  - [Underfitting and Overfitting](https://stats.stackexchange.com/questions/395197/overfitting-and-underfitting) explained
+  - [How to know if Underfitting or Overfitting is occuring](https://stackoverflow.com/questions/52009816/how-to-know-if-underfitting-or-overfitting-is-occuring)
+  - [7 Simple Techniques to Prevent Overfitting](https://www.kaggle.com/getting-started/157623)
+- Train Test Split
+  - [Splitting data into Train-Test and Keeping the ratio](https://stackoverflow.com/questions/52610332/splitting-data-set-into-training-and-test-data-keeping-the-ratio)
+  - [How to Decide a Train-Test-Split](https://ai.stackexchange.com/questions/32029/how-to-decide-a-train-test-split)
+
+### Dive Even Deeper
   - Pipeline:
     - Official [Pipeline Module](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) documentations
     - [Add custom transformers to your Pipeline](https://towardsdatascience.com/pipelines-custom-transformers-in-scikit-learn-the-step-by-step-guide-with-python-code-4a7d9b068156)
