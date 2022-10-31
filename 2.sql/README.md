@@ -1,7 +1,7 @@
 # SQL is your friend
 > A SQL query goes into a bar, walks up to two tables and asks: "Mind if I join you?"
 
-![sql meme](https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/sql/cover.jpg?raw=true)
+![sql meme](https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/2.sql/cover.jpg?raw=true)
 
 SQL is the backbone of databases and as a Data Scientist, you get to work with a lot of complex queries which can and will blow your mind. Better come prepared...
 
