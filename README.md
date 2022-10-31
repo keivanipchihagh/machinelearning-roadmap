@@ -6,8 +6,11 @@ A hands-on roadmap to learn Data-Science, Machine-Learning and MLOps. This roadm
 2. [SQL is your friend](https://github.com/keivanipchihagh/machinelearning-roadmap/tree/master/1.sql/README.md)
 3. [Version Control with Git](https://github.com/keivanipchihagh/machinelearning-roadmap/tree/master/3.git/README.md)
 4. [The Era of Data Science](https://github.com/keivanipchihagh/machinelearning-roadmap/tree/master/4.data-science/README.md)
-    - [Building Blocks]()
-    - [A Gentle Approach to Machine-Learning]()
+    - Building Blocks
+    - A Gentle Approach to Machine-Learning
+      - Get to Know the Concepts
+      - Q&A Session
+      - Dive Even Deeper
 7. [Docker in Action]()
 
 ## 1. Push-ups with Python

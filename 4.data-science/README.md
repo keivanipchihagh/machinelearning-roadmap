@@ -2,7 +2,7 @@
 > "The first rule of data science is: _don’t ask how to define data science!_"
 
 <p align="center">
-  <img src="https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/images/data-science.jpg?raw=true" width="600" />
+  <img src="https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/data-science/cover.jpg?raw=true" width="600" />
 </p>
 
 ## Building Blocks
@@ -70,6 +70,7 @@ Answers to your questions:
   - [How to Decide a Train-Test-Split](https://ai.stackexchange.com/questions/32029/how-to-decide-a-train-test-split)
 
 ### Dive Even Deeper
+  - [Deep Learning with Python - Francois Chollet](https://github.com/keivanipchihagh/machinelearning-roadmap/blob/master/data-science/Deep%20Learning%20with%20Python%20-%20Francois%20Chollet.pdf)
   - Pipeline:
     - Official [Pipeline Module](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) documentations
     - [Add custom transformers to your Pipeline](https://towardsdatascience.com/pipelines-custom-transformers-in-scikit-learn-the-step-by-step-guide-with-python-code-4a7d9b068156)
