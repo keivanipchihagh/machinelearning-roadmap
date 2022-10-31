@@ -54,6 +54,7 @@ It's perfectly **okay** if some of the contents you are about to read don't make
     - Clearing the confusion: [LabelEncode vs OneHotEncode](https://datascience.stackexchange.com/questions/9443/when-to-use-one-hot-encoding-vs-labelencoder-vs-dictvectorizor)
   - Scikit-Learn: [Cross-validate function](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html)
 - Kaggle: [Intro to DeepLearning](https://www.kaggle.com/learn/intro-to-deep-learning)
+- Kaggle: [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 - scikit-learn: [tutorial](https://scikit-learn.org/stable/tutorial/index.html)
 
 **Checkpoint #12**: _Compeition time with [Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)_! Explore the competition page, read [other's notebooks](https://www.kaggle.com/competitions/titanic/code?competitionId=3136&sortBy=voteCount) (it's not cheating ^_^), create a notebook and start coding (lacking ideas? get help from other notebooks!). Submit your results (might have to try a few times to get it right). **Take your days and improve your code as much as you can**!!!
